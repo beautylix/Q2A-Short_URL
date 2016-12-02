@@ -1,2 +1,4 @@
-# Q2A-Short_URL
-Question2Answer Short URL
+
+Q2A Short URL
+--------------------------
+Your URL structure will be: yourdomain.com/123/
